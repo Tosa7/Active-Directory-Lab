@@ -26,7 +26,7 @@
 
 <h3>1. Download and Install VirtualBox</h3>
 <p>Start by downloading and installing <a href="https://www.virtualbox.org/" target="_blank">Oracle VirtualBox</a>. Ensure that you also install the extension pack to support additional features like shared clipboard and file transfer between host and VM.</p>
-<img src="image_link_for_virtualbox_install.png" alt="Download and Install VirtualBox">
+<img src="https://imgur.com/6OTGijX.png" alt="Download and Install VirtualBox">
 
 <h3>2. Download Windows 10 and Windows Server ISOs</h3>
 <p>Download the Windows 10 and Server 2019 ISO files. Microsoft offers trial versions for testing and educational purposes. These will be used to create virtual machines (VMs) for the domain controller and client machine.</p>
